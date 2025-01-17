@@ -1,4 +1,4 @@
-# Gestão de TI
+# Central de TI
 
 Aplicativo para realizar a Gestão de TI, Gerenciamento de Chamados, Ativos e Configurações de Rede
 
